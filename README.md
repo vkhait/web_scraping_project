@@ -1,5 +1,5 @@
 # web_scraping_project
-YThis is a web-scraping and data analysis project. I have identified HTML elements on a page, identified their id and class attributes, and used this knowledge to extract information via both automated browsing with Splinter and HTML parsing with Beautiful Soup. I have also scraped various types of information. These include HTML tables and recurring elements, like multiple news articles on a webpage.
+This is a web-scraping and data analysis project. I have identified HTML elements on a page, identified their id and class attributes, and used this knowledge to extract information via both automated browsing with Splinter and HTML parsing with Beautiful Soup. I have also scraped various types of information. These include HTML tables and recurring elements, like multiple news articles on a webpage.
 
 What I have Created
 
